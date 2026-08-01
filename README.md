@@ -75,7 +75,7 @@ The analysis answers business questions such as:
 - DATE Functions
 - Subqueries
 
-
+---
 ```
 SQL-Foodie-Fi-Analysis/
 │
