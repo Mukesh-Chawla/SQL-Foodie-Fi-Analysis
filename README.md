@@ -81,10 +81,9 @@ The analysis answers business questions such as:
 ```
 SQL-Foodie-Fi-Analysis/
 │
-├── Chinook_MySqlDB.sql
+├── Foodie-Fi_MySQL_DB.sql
 ├── questions_and_query/
-├── Chinook Question.doc
-├── chinook_data_model.png
+├── Foodie-Fi Question.doc
 └── README.md
 ```
 
