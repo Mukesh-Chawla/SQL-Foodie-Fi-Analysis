@@ -92,7 +92,7 @@ SQL-Foodie-Fi-Analysis/
 ---
 ## 📖 Learning Outcomes 
 This project helped strengthen my skills in:
-- SQL querying -
+- SQL querying 
 - Database design
 -  Business problem solving
 -  Data analysis
@@ -100,7 +100,7 @@ This project helped strengthen my skills in:
 -  Window functions
 -  Common Table Expressions (CTEs)
 
-
+---
 
 ## 👨‍💻 Author
 
