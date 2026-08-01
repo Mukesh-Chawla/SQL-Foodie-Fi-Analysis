@@ -42,6 +42,7 @@ The analysis answers business questions such as:
 - Revenue-related insights 
 - Customer journey analysis
 
+---
 
 
 ## 🛠️ Tech Stack
@@ -52,7 +53,7 @@ The analysis answers business questions such as:
 - **Version Control**: Git
 - **Repository Hosting**: GitHub
 
-
+---
 
 ## 📚 SQL Concepts Covered 
 
@@ -86,7 +87,7 @@ SQL-Foodie-Fi-Analysis/
 ```
 
 
-
+---
 ## 📖 Learning Outcomes 
 This project helped strengthen my skills in:
 - SQL querying -
