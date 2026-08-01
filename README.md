@@ -76,6 +76,8 @@ The analysis answers business questions such as:
 - Subqueries
 
 ---
+
+## 📁 Project Structure
 ```
 SQL-Foodie-Fi-Analysis/
 │
