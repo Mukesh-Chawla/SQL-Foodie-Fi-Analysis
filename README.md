@@ -46,11 +46,11 @@ The analysis answers business questions such as:
 
 ## 🛠️ Tech Stack
 
--**Database**: MySQL 8.0
--**Language**: SQL
--**IDE**: MySQL Workbench
--**Version Control**: Git
--**Repository Hosting**: GitHub
+- **Database**: MySQL 8.0
+- **Language**: SQL
+- **IDE**: MySQL Workbench
+- **Version Control**: Git
+- **Repository Hosting**: GitHub
 
 
 
